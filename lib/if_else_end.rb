@@ -1,6 +1,6 @@
 # Write your solution here
 if true
-  puts "even"
+  puts "Even!"
 else
-  puts "odd"
+  puts "Odd!"
 end
